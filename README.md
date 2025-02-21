@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+ About Me:
 👋 Hi there! I’m Krishna, a passionate Full-Stack Web Developer, Front-end developer, Back-end developer and Web Designer with expertise in React.js, Node.js, Express.js and MongoDB @Krishnakandgole
 
 
