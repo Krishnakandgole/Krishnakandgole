@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Krishnakandgole/Krishnakandgole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- About Me:
+# 💫 About Me:
 👋 Hi there! I’m Krishna, a passionate Full-Stack Web Developer, Front-end developer, Back-end developer and Web Designer with expertise in React.js, Node.js, Express.js and MongoDB @Krishnakandgole
 
 
@@ -22,3 +15,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Krishna kandgole&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
